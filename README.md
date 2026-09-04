@@ -32,8 +32,6 @@ Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento de s
 
 <img 
     align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
@@ -55,15 +53,6 @@ Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento de s
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="C++" 
-    title="C++"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
 />
 
 <img 
@@ -105,8 +94,6 @@ Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento de s
 - ⚡ Lógica de Programação
 - 🔌 Eletrônica
 - 🤖 Arduino
-- 📡 ESP32
-- 🌐 Internet das Coisas (IoT)
 - 🔧 Sensores e componentes eletrônicos
 - 🔄 Git e GitHub
 - 🧠 Desenvolvimento de projetos e resolução de problemas
@@ -116,14 +103,12 @@ Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento de s
 ### 🔬 Áreas de Interesse
 
 - Desenvolvimento de Sistemas
-- Internet das Coisas (IoT)
 - Redes 
 - Eletrônica
 - Desenvolvimento Web
 - Programação
 - Linux
-- Tecnologia e inovação
-
+- 
 ---
 
 ### 🎓 Formação
