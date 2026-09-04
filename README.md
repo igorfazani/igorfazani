@@ -4,11 +4,9 @@
 
 Olá! Me chamo Igor Fazani Rego. Sou estudante de Desenvolvimento de Sistemas no SENAI e concluí o curso Técnico em Eletrônica pela Etec Jorge Street.
 
-Tenho interesse em tecnologia, programação, desenvolvimento de sistemas, eletrônica e Internet das Coisas (IoT). Busco constantemente desenvolver meus conhecimentos e transformar o que aprendo em projetos práticos.
+Tenho interesse em tecnologia, programação, desenvolvimento de sistemas e eletrônica. Busco constantemente desenvolver meus conhecimentos e transformar o que aprendo em projetos práticos.Acredito que, além do conhecimento técnico, as soft skills, a capacidade de trabalhar em equipe, se comunicar, aprender com os outros e lidar com desafios são fundamentais para o desenvolvimento profissional.
 
-Durante minha formação, tive contato com lógica de programação, desenvolvimento web, programação em Python, PHP, eletrônica, microcontroladores, sensores e desenvolvimento de projetos utilizando Arduino e ESP32.
-
-Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento de sistemas e ampliar meus conhecimentos na área de tecnologia.
+Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento de sistemas e ampliar meus conhecimentos na área de tecnologia. 
 
 ---
 
@@ -119,11 +117,11 @@ Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento de s
 
 - Desenvolvimento de Sistemas
 - Internet das Coisas (IoT)
-- Automação
+- Redes 
 - Eletrônica
 - Desenvolvimento Web
 - Programação
-- Sistemas embarcados
+- Linux
 - Tecnologia e inovação
 
 ---
@@ -136,26 +134,7 @@ Concluído em 2025.
 **Desenvolvimento de Sistemas — SENAI**  
 Em andamento.
 
-**Lógica de Programação — SENAI**  
-Concluído em 2024.
-
 ---
 
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=igorfazani&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorfazani&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
   />
 </p>
