@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Igor Fazani Rego
+# Igor Fazani Rego
 
 **`Estudante de Desenvolvimento de Sistemas`**
 
@@ -97,11 +97,7 @@ Em andamento.
 **Técnico em Eletrônica — Etec Jorge Street**  
 Concluído em 2025.
 
-**Lógica de Programação — SENAI**  
-Concluído em 2024.
-
 ---
-
 ### 📊 Estatísticas
 
 <p>
