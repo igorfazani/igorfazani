@@ -1,16 +1,18 @@
 # 👨🏻‍💻 Igor Fazani Rego
 
-**`Estudante de Desenvolvimento de Sistemas | Técnico em Eletrônica`**
+**`Estudante de Desenvolvimento de Sistemas`**
 
-Olá! Me chamo Igor Fazani Rego. Sou estudante de Desenvolvimento de Sistemas no SENAI e concluí o curso Técnico em Eletrônica pela Etec Jorge Street.
+Sou estudante de Desenvolvimento de Sistemas no SENAI e Técnico em Eletrônica pela Etec Jorge Street.
 
-Tenho interesse em tecnologia, programação, desenvolvimento de sistemas e eletrônica. Busco constantemente desenvolver meus conhecimentos e transformar o que aprendo em projetos práticos.Acredito que, além do conhecimento técnico, as soft skills, a capacidade de trabalhar em equipe, se comunicar, aprender com os outros e lidar com desafios são fundamentais para o desenvolvimento profissional.
+Sempre tive interesse por tecnologia e gosto de aprender coisas novas, principalmente na área de programação e desenvolvimento. Atualmente, estou buscando colocar em prática o que venho aprendendo e ganhar experiência profissional.
 
-Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento de sistemas e ampliar meus conhecimentos na área de tecnologia. 
+Acredito que, além do conhecimento técnico, saber trabalhar em equipe, se comunicar e estar disposto a aprender são pontos importantes para crescer profissionalmente. Também valorizo as características e habilidades individuais de cada pessoa, pois acredito que todos podem contribuir de maneiras diferentes.
+
+Estou no início da minha carreira e busco continuar aprendendo, desenvolver meus conhecimentos e aproveitar cada oportunidade para evoluir.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🛠️ Tecnologias
 
 <img 
     align="left" 
@@ -28,13 +30,6 @@ Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento de s
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-
-<img 
-    align="left" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
 <img 
@@ -73,53 +68,55 @@ Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento de s
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
 />
 
-<img 
-    align="left" 
-    alt="Arduino" 
-    title="Arduino"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" 
-/>
-
 <br/>
 <br/>
 
-### ⚙️ Competências
+---
 
-- 💻 Desenvolvimento de Sistemas
-- 🌐 Desenvolvimento Web
-- 🐍 Programação em Python
-- 🐘 Desenvolvimento com PHP
-- ⚡ Lógica de Programação
-- 🔌 Eletrônica
-- 🤖 Arduino
-- 🔧 Sensores e componentes eletrônicos
-- 🔄 Git e GitHub
-- 🧠 Desenvolvimento de projetos e resolução de problemas
+### 🎯 Competências
+
+- Lógica de programação
+- Desenvolvimento de sistemas
+- Desenvolvimento web
+- Programação em Python
+- Programação em PHP
+- HTML e CSS
+- Git e GitHub
+- Trabalho em equipe
+- Comunicação
+- Organização
+- Facilidade para aprender
 
 ---
 
-### 🔬 Áreas de Interesse
-
-- Desenvolvimento de Sistemas
-- Redes 
-- Eletrônica
-- Desenvolvimento Web
-- Programação
-- Linux
-- 
----
-
-### 🎓 Formação
-
-**Técnico em Eletrônica — Etec Jorge Street**  
-Concluído em 2025.
+### 📚 Formação
 
 **Desenvolvimento de Sistemas — SENAI**  
 Em andamento.
 
+**Técnico em Eletrônica — Etec Jorge Street**  
+Concluído em 2025.
+
+**Lógica de Programação — SENAI**  
+Concluído em 2024.
+
 ---
 
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=igorfazani&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorfazani&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
   />
 </p>
